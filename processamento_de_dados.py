@@ -20,7 +20,7 @@ def carregar_tabelas(
     return{
         'tabela_vendas': tabela_vendas,
         'tabela_volume': tabela_volume,
-        'tabela_ticket_medio': tabela_ticket_medio,
+        'tabela_tm': tabela_ticket_medio,
     }
 
 def filtrar_dados_pelo_mes(
