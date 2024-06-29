@@ -15,7 +15,7 @@ This project automates the creation of PDF reports from Excel files. By processi
 - Python 
 - pandas
 - jinja2
-- weasyprint
+- WK< html >TOpdf
 - openpyxl (for reading Excel files)
 
 ## Sample PDF Report
